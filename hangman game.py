@@ -1,6 +1,6 @@
 import random
 print("\t\t\t\t\tGAME BEGINS\n")
-word=["andrapradesh","arunachalpradesh","assam","bihar","chhattisgarh","goa","gujarat","haryana","himachalpradesh","jammuandkashmir","jharkhand","karnataka","kerala","madhyapradesh","maharashtra","manipur","meghalaya","mizoram","nagaland","orissa","punjab","rajasthan","sikkim","tamilnadu","tripura","telangana","uttaranchal","uttarpradesh","westbengal"]
+word=["andrapradesh","arunachaldesh","assam","bihar","chhattisgarh","goa","gujarat","haryana","himachalpradesh","jammuandkashmir","jharkhand","karnataka","kerala","madhyapradesh","maharashtra","manipur","meghalaya","mizoram","nagaland","orissa","punjab","rajasthan","sikkim","tamilnadu","tripura","telangana","uttaranchal","uttarpradesh","westbengal"]
 
 a='y'
 
