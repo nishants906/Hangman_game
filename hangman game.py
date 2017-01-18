@@ -17,7 +17,7 @@ while a=='y':
             print("sorry! u guess it wrong")
             break
 
-    if (e==(c-1)):
+    if (e==(c-1
         print("hurray! you done it")
             
     f=raw_input("want to try aain(y/n)")
